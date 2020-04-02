@@ -1,0 +1,7 @@
+.Logo {
+    transition: all 0.2s;
+}
+.Logo:hover {
+    transform: rotate(360deg);
+    
+}
